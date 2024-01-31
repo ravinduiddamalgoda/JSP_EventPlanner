@@ -1,0 +1,16 @@
+IT22925336
+R. Iddamalgoda
+
+My Contribution for the Project - 
+
+Admin Registration + login - Insert and Retrieve 
+Event Verification - Update
+Add Service Provider - Insert
+Add Admin - Insert 
+Service Provider Login - Retrieve
+Add Service - Insert
+Update Service Stats(Available Unavailable) - Update 
+See Added Events and Requests for the Event - Retrieve
+Delete Event - Delete 
+
+ 
